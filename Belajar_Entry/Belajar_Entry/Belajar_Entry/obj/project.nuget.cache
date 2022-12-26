@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SntMDfoNabDl3ToHn8FjVOkP8kCuTxgcG1/s8lrm6tQ18gAgbhZ1WzABMOtGEFgAUjPgpcGgtyL3+B4OEBY+bw==",
+  "success": true,
+  "projectFilePath": "D:\\code pemrograman\\belajar_xamarin\\Belajar_Entry\\Belajar_Entry\\Belajar_Entry\\Belajar_Entry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
