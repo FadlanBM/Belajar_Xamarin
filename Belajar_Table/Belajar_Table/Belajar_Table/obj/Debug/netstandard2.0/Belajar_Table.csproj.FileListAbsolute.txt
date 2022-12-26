@@ -1,0 +1,16 @@
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\bin\Debug\netstandard2.0\Belajar_Table.deps.json
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\bin\Debug\netstandard2.0\Belajar_Table.dll
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\bin\Debug\netstandard2.0\Belajar_Table.pdb
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\obj\Debug\netstandard2.0\Belajar_Table.csproj.AssemblyReference.cache
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\obj\Debug\netstandard2.0\Belajar_Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\obj\Debug\netstandard2.0\Labels.xaml.g.cs
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\obj\Debug\netstandard2.0\Belajar_Table.AssemblyInfoInputs.cache
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\obj\Debug\netstandard2.0\Belajar_Table.AssemblyInfo.cs
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\obj\Debug\netstandard2.0\Belajar_Table.csproj.CoreCompileInputs.cache
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\obj\Debug\netstandard2.0\XamlC.stamp
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\obj\Debug\netstandard2.0\Belajar_Table.dll
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\obj\Debug\netstandard2.0\refint\Belajar_Table.dll
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\obj\Debug\netstandard2.0\Belajar_Table.pdb
+D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table\obj\Debug\netstandard2.0\ref\Belajar_Table.dll

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Belajar_Table.Labels">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Xamarin.Forms!" />
+            <Label Text="Label:2 Welcome to Fadlan" FontSize="Large"/>
+            <Label Text="Label:3 Welcome to Fadlan" FontSize="Large" TextColor="DarkBlue"/>
+            <Label Text="Label:4 Welcome to Fadlan" FontSize="Large" TextColor="DarkBlue" LineHeight="15"/>
+
+            <Label Text="Label:5 Welcome to Fadlan" HorizontalOptions="Center"/>
+
+            <Label Text="Label:6 Welcome to Fadlan!Label6 Welcome to Fadlan!Label6 Welcome to Fadlan!Label6 Welcome to Fadlan!Label6 Welcome to Fadlan!
+                   Label6 Welcome to Fadlan!Label6 Welcome to Fadlan!Label6 Welcome to Fadlan!"
+                   HorizontalOptions="Center"
+                   LineBreakMode="WordWrap"/>
+            <Label Text="Label:7 Welcome to Fadlan!Label6 Welcome to Fadlan!Label6 Welcome to Fadlan!Label6 Welcome to Fadlan!Label6 Welcome to Fadlan!
+                   Label6 Welcome to Fadlan!Label6 Welcome to Fadlan!Label6 Welcome to Fadlan!"
+                   HorizontalOptions="Center"
+                   LineBreakMode="NoWrap"/>
+            <Label Text="Welcome to Xamarin.Forms!" 
+                   TextColor="Blue"
+                   FontAttributes="Italic"
+                   FontSize="24"
+                   TextDecorations="Underline"
+                   HorizontalOptions="Center"
+                   />
+
+            <Label LineBreakMode="WordWrap">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Label:9 Red Bold" TextColor="Red" FontAttributes="Bold"/>
+                        <Span Text="Label:10 Default" Style="{DynamicResource BoldStyle}"/>
+                        <Span Text="label:11" FontAttributes="Italic" FontSize="Small"/>
+                        <Span Text="My Github ?">
+                            <Span.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding TapCommand}"
+                                                      CommandParameter="https://github.com/FadlanBM/Belajar_Xamarin"/>
+                            </Span.GestureRecognizers>
+                        </Span>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

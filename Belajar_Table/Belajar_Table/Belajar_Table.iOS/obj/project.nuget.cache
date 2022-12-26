@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qi5R5lGQeCDIWadK9cYSWY6zQ6BQfZYOzj75vo994/GpFVg8RnuKLhEBRaj5OpvkvZnavhZO22OKWJ119wGoWg==",
+  "success": true,
+  "projectFilePath": "D:\\code pemrograman\\belajar_xamarin\\Belajar_Table\\Belajar_Table\\Belajar_Table.iOS\\Belajar_Table.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

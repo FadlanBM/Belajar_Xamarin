@@ -1,0 +1,50 @@
+@string/appbar_scrolling_view_behavior;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+alpha;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromleft.xml
+alpha;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\anim\exittoleft.xml
+androidx.appcompat.widget.Toolbar;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\shellcontent.xml
+attr;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\values\attrs.xml
+background;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
+background;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+cache-path;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\130\res\values\colors.xml
+com.google.android.material.appbar.AppBarLayout;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\tabbar.xml
+declare-styleable;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\values\attrs.xml
+external-cache-path;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\bottomtablayout.xml
+item;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\values\styles.xml
+LinearLayout;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\bottomtablayout.xml
+paths;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\values\attrs.xml
+resources;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\values\strings.xml
+resources;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\values\styles.xml
+resources;obj\Debug\130\res\values\colors.xml
+resources;obj\Debug\130\res\values\styles.xml
+set;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromleft.xml
+set;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromright.xml
+set;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\anim\exittoleft.xml
+set;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\anim\exittoright.xml
+string;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\values\strings.xml
+style;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\values\styles.xml
+style;obj\Debug\130\res\values\styles.xml
+translate;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromleft.xml
+translate;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\anim\enterfromright.xml
+translate;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\anim\exittoleft.xml
+translate;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;D:\code pemrograman\belajar_xamarin\Belajar_Table\Belajar_Table\Belajar_Table.Android\obj\Debug\130\lp\54\jl\res\layout\flyoutcontent.xml
